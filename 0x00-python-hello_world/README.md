@@ -1,1 +1,1 @@
-this is the first project's readme file
+this is a readme at the project directory.
